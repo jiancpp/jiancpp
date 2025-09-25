@@ -19,9 +19,9 @@ A Computer Science student majoring in **Software Technology** at **De La Salle 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiancpp&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiancpp&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jiancpp&theme=tokyonight&hide_border=true)
 
 
 <!--
