@@ -4,17 +4,25 @@ A Computer Science student majoring in **Software Technology** at **De La Salle 
 ---
 
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/Code-C-blue)
-![Java](https://img.shields.io/badge/Code-Java-red)
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blueviolet)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)
-![Rust](https://img.shields.io/badge/Code-Rust-orange)
+![C](https://img.shields.io/badge/C-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue)
+![Rust](https://img.shields.io/badge/Rust-orange)
 
 ## 🔗 Connect with Me
 📧 **Email:** [jiannaclarisse.tm@gmail.com](mailto:jiannaclarisse.tm@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jianna-clarisse-m](https://www.linkedin.com/in/jianna-clarisse-m-97b46b278/)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+
 
 <!--
 ## 💫 About Me
