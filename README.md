@@ -6,8 +6,6 @@ A Computer Science student majoring in **Software Technology** at **De La Salle 
 ## 🛠️ Tech Stack
 C · Java · HTML · CSS · JavaScript · MySQL · Rust
 
----
-
 ## 🔗 Connect with Me
 - 📧 [Email](mailto:jiannaclarisse.tm@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jianna-clarisse-m-97b46b278/)
