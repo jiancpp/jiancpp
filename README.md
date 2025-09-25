@@ -1,18 +1,23 @@
-## Hi, I'm Jia 🧑‍🚀
+## Hi, I'm Jia! 🧑‍🚀
 A Computer Science student majoring in **Software Technology** at **De La Salle University**
 
 ---
 
 ## 🛠️ Tech Stack
-C · Java · HTML · CSS · JavaScript · MySQL · Rust
+![C](https://img.shields.io/badge/Code-C-blue)
+![Java](https://img.shields.io/badge/Code-Java-red)
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blueviolet)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)
+![Rust](https://img.shields.io/badge/Code-Rust-orange)
 
 ## 🔗 Connect with Me
-- 📧 [Email](mailto:jiannaclarisse.tm@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jianna-clarisse-m-97b46b278/)
+📧 **Email:** [jiannaclarisse.tm@gmail.com](mailto:jiannaclarisse.tm@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jianna-clarisse-m](https://www.linkedin.com/in/jianna-clarisse-m-97b46b278/)
 
 <!--
 ## 💫 About Me
----
 🫂 Socio-Civic Committee Trainee at the La Salle Computer Society
 ⚙️ DLSU CSG
 🤖 Aspiring ... 
