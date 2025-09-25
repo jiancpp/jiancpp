@@ -22,11 +22,7 @@ A Computer Science student majoring in **Software Technology** at **De La Salle 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiancpp&theme=react&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiancpp&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiancpp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
 </p>
