@@ -24,11 +24,3 @@ A Computer Science student majoring in **Software Technology** at **De La Salle 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jiancpp&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiancpp&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiancpp&layout=compact&theme=tokyonight" />
-</p>
